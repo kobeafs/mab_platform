@@ -16,6 +16,7 @@
 
 *图1：ELISA 自动化数据分析看板*
 <img width="1833" height="874" alt="ScreenShot_2026-02-28_011838_955" src="https://github.com/user-attachments/assets/bea98813-1256-45a5-b84e-79dfc4933145" />
+<img width="1823" height="878" alt="ScreenShot_2026-02-28_021023_250" src="https://github.com/user-attachments/assets/dcf75227-8b8f-45ba-97cf-242afba406f6" />
 包含ELISA定量，效价检测，B细胞筛选。定量以及效价检测支持一键拟合计算，B细胞支持批量上传96孔/384孔原始数据，设置阳性阈值，并生成分表总表，一键导出汇总表，方便打印挑克隆。
 
 
@@ -41,6 +42,7 @@
 
 图7：pocketbase
 <img width="1912" height="898" alt="ScreenShot_2026-02-28_015810_001" src="https://github.com/user-attachments/assets/b9175f2e-7540-4215-83fc-c922e28727cb" />
+<img width="1888" height="882" alt="ScreenShot_2026-02-28_020612_682" src="https://github.com/user-attachments/assets/ef551f81-adde-4e02-a582-a5e711cf1b4c" />
 使用pocketbase储存数据，具备数据库存储（内置 SQLite），用户权限，REST API，文件存储，后台管理面板功能，保障数据合规，操作溯源。
 
 
